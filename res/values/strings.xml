@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TalkingKids</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="object_class">
+        <item>Animal</item>
+        <item>Bird</item>
+        <item>Food</item>
+        <item>Flower</item>
+        <item>Vehicle</item>
+        <item>Fruit</item>
+        <item>Study</item>
+        <item>Toy</item>
+        <item>Nature</item>
+        <item>Human body</item>
+    </string-array>
+
+</resources>
